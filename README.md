@@ -1,8 +1,5 @@
 ## About
 
-**NO LONGER MAINTAINED**
-
-
 ## Laravel 8.0.x Supported
 Supports Laravel 8.0.x now
 
@@ -14,7 +11,7 @@ Configuration paths have changed in Laravel 5.7, in order for this package to fu
 ## Install the package
 
 In your project:
-```composer require composer require shahidkarimi/i18-js-generator --dev```
+```composer require shahidkarimi/i18-js-generator --dev```
 
 ### For Laravel 5.4 and below:
 For older versions of the framework:

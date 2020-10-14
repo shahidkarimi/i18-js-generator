@@ -1,8 +1,8 @@
-<?php namespace MartinLindhe\VueInternationalizationGenerator\Commands;
+<?php namespace ShahidKarimi\VueInternationalizationGenerator\Commands;
 
 use Illuminate\Console\Command;
 
-use MartinLindhe\VueInternationalizationGenerator\Generator;
+use ShahidKarimi\VueInternationalizationGenerator\Generator;
 
 class GenerateInclude extends Command
 {

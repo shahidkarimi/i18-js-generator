@@ -22,13 +22,13 @@
     },
     "autoload": {
         "psr-4": {
-            "MartinLindhe\\VueInternationalizationGenerator\\": "src/"
+            "ShahidKarimi\\VueInternationalizationGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "MartinLindhe\\VueInternationalizationGenerator\\GeneratorProvider"
+                "ShahidKarimi\\VueInternationalizationGenerator\\GeneratorProvider"
             ]
         }
     }

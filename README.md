@@ -1,7 +1,7 @@
 ## About
 
-## Laravel 8.0.x Supported
-Supports Laravel 8.0.x now
+## Laravel 9.0.x Supported
+Supports Laravel >= 9.0.x now
 
 ## Laravel 5.7 notice!
 
